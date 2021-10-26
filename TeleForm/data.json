@@ -1,0 +1,30 @@
+[
+  {
+    "ID": 0,
+    "Type": null,
+    "Amount": 0,
+    "AddressToBuy": null,
+    "AddressToSell": null
+  },
+  {
+    "ID": 1,
+    "Type": "Bán",
+    "Amount": 20,
+    "AddressToBuy": null,
+    "AddressToSell": null
+  },
+  {
+    "ID": 2,
+    "Type": "Mua",
+    "Amount": 20,
+    "AddressToBuy": null,
+    "AddressToSell": null
+  },
+  {
+    "ID": 1,
+    "Type": "Mua",
+    "Amount": 0,
+    "AddressToBuy": null,
+    "AddressToSell": null
+  }
+]

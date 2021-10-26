@@ -1,0 +1,18 @@
+﻿{
+  "botID": "2050619408:AAFLVGYrlCSbEMfr8arIQe4VvsaKxVJwvdM",
+  "actions": [
+    {
+      "choosen": "Bạn chọn mua hay bán với BOT tiền VND",
+      "buy": "Mua",
+      "sell": "Bán",
+      "how_much_buy": "Bạn muốn mua bao nhiêu AMAX ?",
+      "how_much_sell": "Bạn muốn bán bao nhiêu AMAX ?"
+
+
+
+
+    }
+      
+  ]
+
+}
